@@ -2,7 +2,8 @@
   "Items": [
     {
       "Id": "27ab0f74-e0ee-485c-9130-d02778733e4a",
-      "Active": true
+      "Active": true,
+      "Demo": true
     }
   ]
 }
